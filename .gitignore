@@ -2,13 +2,13 @@
 .DS_Store
 *.tmp
 .obsidian/
-*.db
-Resumen BigER Original.md
-presentacion_er.qmd
-presentacion_er_borrador.qmd
-presentacion_er.html
-presentacion_er_simplificada_teoria.html
-presentacion_er_simplificada_teoria.qmd
-/presentacion_er_files/
-/presentacion_er_simplificada_teoria_files/
-/labs/LAB09 - BigER Completo.md
+./labs/taller1/*.db
+./bd-contenidos/Resumen BigER Original.md
+./bd-contenidos/presentacion_er.qmd
+./bd-contenidos/presentacion_er_borrador.qmd
+./bd-contenidos/presentacion_er.html
+./bd-contenidos/presentacion_er_simplificada_teoria.html
+./bd-contenidos/presentacion_er_simplificada_teoria.qmd
+./bd-contenidos/presentacion_er_files/
+./bd-contenidos/presentacion_er_simplificada_teoria_files/
+./bd-contenidos/labs/LAB09 - BigER Completo.md
