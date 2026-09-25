@@ -2,7 +2,6 @@
 .DS_Store
 *.tmp
 .obsidian/
-./labs/taller1/*.db
 ./bd-contenidos/Resumen BigER Original.md
 ./bd-contenidos/presentacion_er.qmd
 ./bd-contenidos/presentacion_er_borrador.qmd
